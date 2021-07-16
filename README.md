@@ -1,0 +1,2 @@
+# desligar-computador
+desligar computador
